@@ -8,7 +8,7 @@ I'm a student Cloud engineer at AltSchool Africa. I'm passionate about sharing a
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m proficient in HTML and CSS with intermediate skills in Javascript while I am currently learning about Linus Operations, Automation and Networking in Cloud and using Cloud services.
+- 🌱 I’m proficient in HTML and CSS with intermediate skills in Javascript while I am currently learning about Linux Operations, Automation and Networking in Cloud and using Cloud services.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer or Frontend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/18s6IyJJOkeHdL55XkLhgW5CSTJTU7_vI/view?usp=sharing) and contact me by emailing dewgodswill@gmail.com.
